@@ -21,4 +21,10 @@ An interactive flash card application built with React, focusing on JavaScript c
 - Vite
 - CSS3 for animations and styling
 
-## Project Structure
+## Project Requirements
+This project is created following the requirements from:
+[https://roadmap.sh/projects/flash-cards](https://roadmap.sh/projects/flash-cards)
+
+## Author
+Faiza Azam
+- GitHub: [@faizaazam-1](https://github.com/faizaazam-1)
