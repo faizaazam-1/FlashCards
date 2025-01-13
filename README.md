@@ -1,8 +1,24 @@
-# React + Vite
+# JavaScript FrameWork Flash Cards
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive flash card application built with React, focusing on JavaScript concepts. This project is part of the frontend learning path from [roadmap.sh](https://roadmap.sh/frontend).
 
-Currently, two official plugins are available:
+## Live Demo
+[View Demo](https://faizaazam-1.github.io/FlashCards/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Preview
+<img src="./public/FlashCard-preview.png" alt="[Flash Card Project Preview" width="450px">
+
+## Features
+- Interactive flash cards with questions and answers
+- Smooth flip animation for card reveals
+- Progress tracking with percentage
+- Navigation between cards
+- Clean and modern UI
+- Responsive design
+
+## Built With
+- React
+- Vite
+- CSS3 for animations and styling
+
+## Project Structure
